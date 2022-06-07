@@ -1,0 +1,52 @@
+.block-one-wrapper {
+position: absolute;
+width: 1440px;
+height: 500px;
+left: 0px;
+top: 0px;
+background: #ED4C5C;
+}
+
+.main-text {
+position: absolute;
+width: 445px;
+height: 107px;
+left: 165px;
+top: 122px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+color: #FFFFFF;
+}
+
+.main-text2 {
+position: absolute;
+width: 445px;
+height: 64px;
+left: 165px;
+top: 253px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+color: #FFFFFF;
+}
+
+.icon {
+position: absolute;
+left: 11.15%;
+right: 32.46%;
+top: 75.7%;
+bottom: 6.25%;
+
+}
+.icon .vector-class {
+left: 11.15%;
+right: 32.46%;
+top: 75.7%;
+bottom: 6.25%;
+}
